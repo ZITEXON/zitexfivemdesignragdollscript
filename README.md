@@ -2,7 +2,7 @@
  A simple fivem script that trigger a ragdoll by clicking keybind that you set
 
  ## PREVIEW
-PREVIEW - SOON
+PREVIEW - https://www.youtube.com/watch?v=6r6ohADtkd0&ab_channel=ZITEXON
 
 
 ## Installation
