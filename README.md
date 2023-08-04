@@ -1,7 +1,10 @@
 # zitexfivemdesignragdollscript
  A simple fivem script that trigger a ragdoll by clicking keybind that you set
 
- 
+ ## PREVIEW
+PREVIEW - SOON
+
+
 ## Installation
 - Add this in your `server.cfg`:
 
